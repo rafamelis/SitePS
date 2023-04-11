@@ -4,3 +4,14 @@ nav{
 body{
     background-color: rgb(0, 0, 0)!important;
 }
+.boxVideo{
+    min-width: 100%;
+    min-height: 100%;
+}
+.videox5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    
+}
