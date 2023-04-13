@@ -7,6 +7,7 @@
 *{
     font-family: 'Octosquares'!important;
     
+    
 }
 .cardBox a {
     color: black!important;
@@ -19,7 +20,8 @@ nav{
     max-width: 25vh;
 }
 body{
-    background-color: rgb(0, 0, 0)!important;
+    background-image:url(../img/brackets-bg.jpg);
+    background-size: cover ;
     min-height: 100vh;
 
 }
@@ -31,6 +33,10 @@ body{
     align-items: center;
     justify-content: center;
     align-content: center;
+}
+.videox5{
+    min-width: 100vh;
+    min-height: 100vh;
 }
 
 /* Membros */
