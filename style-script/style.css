@@ -19,7 +19,7 @@ a:hover{
     text-decoration: underline 2px !important;
 }
 nav{
-    max-width: 25vh;
+    max-width: 40vh;
 }
 body{
     background-image:url(../img/brackets-bg.jpg);
