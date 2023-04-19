@@ -111,6 +111,10 @@ body{
     align-items: center;
     
 }
+.infoAcord{
+    min-width: 90vh;
+}
+
 
 /* Tabela */
 
@@ -125,7 +129,6 @@ body{
     border-style: solid;
     border-color: rgb(130, 90, 40);
 }
-
 
 
 
