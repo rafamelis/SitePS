@@ -109,7 +109,7 @@ body{
     grid-template-columns: repeat(auto-fit, minmax (100px,1fr));
     margin-left: 2vh;
     margin-top: 5vh;
-    max-width: 45%;   
+    max-width: 25%;   
     
     background-color: rgb(30, 40, 45)!important;
     
@@ -150,4 +150,12 @@ body{
 
 
 
-
+@media only screen and (max-width: 800px){
+    .caixaDestaque{
+        max-width: 100vh; 
+        margin-right:2vh ;
+    }
+    nav{
+        max-width: 100vh;
+    }
+}
