@@ -152,8 +152,9 @@ body{
     height: auto;
   }
   .t2022{
-    width: auto!important ;
-    height: auto!important;
+    width: 85%!important ;
+    height: 85%!important;
+    
   }
   img {
     display: block;
@@ -253,7 +254,7 @@ body{
   Slider
   ===============
   */
-  
+
   .slider-container {
     border: 5px solid var(--clr-primary-5);
     width: 80vw;
